@@ -1,0 +1,26 @@
+{
+  "name": "rio-travel-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.0.0",
+    "bootstrap": "^4.1.1",
+    "firebase": "^5.3.1",
+    "google-map-react": "^1.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-slick": "^0.23.1",
+    "react-star-rating-component": "^1.4.1",
+    "reactstrap": "^6.0.1",
+    "slick-carousel": "^1.8.1",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

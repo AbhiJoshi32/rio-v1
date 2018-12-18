@@ -1,0 +1,21 @@
+.car-form {
+    border-radius: 8px;
+    background-clip: padding-box;
+    max-width: 570px;
+    padding: 45px 30px 30px;
+    margin: 110px 0 0 -15px;
+    background: #F5F5F5;
+}
+@media (max-width: 991px) {
+    .car-form {
+        margin:0 auto 0 !important;
+    }
+}
+
+.form-icons {
+    color: #CCCCCC;
+    position: absolute;
+    top: 6px;
+    right: 20px;
+    font-size: 24px;
+}
